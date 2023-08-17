@@ -44,7 +44,7 @@
 
 ---
 
-## 🔠자연어 생성
+## 🔠[자연어 생성](https://github.com/siyeonSon/hotel-review-sentiment-analysis/blob/main/3.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%83%9D%EC%84%B1.ipynb)
 ```python
 print(sentence_generation(model, tokenizer, 'hotel', 15))
 print(sentence_generation(model, tokenizer, 'this hotel', 20))
